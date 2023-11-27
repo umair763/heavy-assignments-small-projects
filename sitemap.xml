@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/issues</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/pulls</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/actions</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/projects?query=is%3Aopen</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/security</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/commit/14199363da35c666d5559f529604191094c247ea</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/commit/de4ceef47f4ea7872a8014dbc12db3c19291450c</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/commit/cdd720b597908746bdf9ed4036c8a60987e56546</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/releases</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/labels</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/compare</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/commit/9890247aab585e34c19614de1f509c89e934b889</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/labels?sort=name-asc</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/labels?sort=name-desc</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/labels?sort=count-desc</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/labels?sort=count-asc</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/labels/bug</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/labels/documentation</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/labels/duplicate</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/labels/enhancement</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/labels/good%20first%20issue</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/labels/help%20wanted</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/labels/invalid</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/labels/question</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/labels/wontfix</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?state=open</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?state=closed</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/umair763/heavy-assignments-small-projects/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-11-27T13:23:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
